@@ -1,5 +1,8 @@
 # Calculator App Using Angular
 
+![Calculator-img](https://user-images.githubusercontent.com/68740308/160799935-7bba0a26-332c-459d-ad35-23a69e290a38.jpg)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
